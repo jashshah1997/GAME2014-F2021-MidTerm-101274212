@@ -36,7 +36,7 @@ public class BackgroundController : MonoBehaviour
 
     private void _CheckBounds()
     {
-        // if the background is lower than the bottom of the screen then reset
+        // if the background is lower than the left of the screen then reset
         if (transform.position.x <= -horizontalBoundary)
         {
             _Reset();
