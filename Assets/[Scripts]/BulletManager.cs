@@ -1,4 +1,13 @@
-﻿using System.Collections;
+﻿/**
+ * Filename:            BulletManager.cs
+ * Student Name:        Jash Shah
+ * Student ID:          101274212
+ * Date last modified:  21/10/2021
+ * Program Description: A class for managing the fired bullet objects.
+ * Revision History:
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
